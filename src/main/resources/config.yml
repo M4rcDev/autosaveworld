@@ -1,0 +1,3 @@
+#Save every 30 Seconds the world named "world"
+worlds:
+  world: 30
